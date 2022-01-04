@@ -830,7 +830,7 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .border-sky-500 {
   --tw-border-opacity: 1;
-  border-color: rgb(0 76 153 / var(--tw-border-opacity));
+  border-color: rgb(51 171 249 / var(--tw-border-opacity));
 }
 
 .border-opacity-75 {
@@ -864,7 +864,7 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .bg-sky-500 {
   --tw-bg-opacity: 1;
-  background-color: rgb(0 76 153 / var(--tw-bg-opacity));
+  background-color: rgb(51 171 249 / var(--tw-bg-opacity));
 }
 
 .bg-opacity-40 {
@@ -1120,7 +1120,7 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .text-sky-500 {
   --tw-text-opacity: 1;
-  color: rgb(0 76 153 / var(--tw-text-opacity));
+  color: rgb(51 171 249 / var(--tw-text-opacity));
 }
 
 .text-opacity-90 {
@@ -1245,7 +1245,7 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .hover\:bg-sky-500:hover {
   --tw-bg-opacity: 1;
-  background-color: rgb(0 76 153 / var(--tw-bg-opacity));
+  background-color: rgb(51 171 249 / var(--tw-bg-opacity));
 }
 
 .hover\:from-pink-500:hover {
@@ -1265,7 +1265,7 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .hover\:text-sky-500:hover {
   --tw-text-opacity: 1;
-  color: rgb(0 76 153 / var(--tw-text-opacity));
+  color: rgb(51 171 249 / var(--tw-text-opacity));
 }
 
 .hover\:opacity-100:hover {
